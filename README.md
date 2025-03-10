@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kesrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/kesrana/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kesrana/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
