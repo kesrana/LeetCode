@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kesrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kesrana/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/kesrana/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/kesrana/LeetCode/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
