@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/kesrana/LeetCode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
