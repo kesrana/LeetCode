@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kesrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kesrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kesrana/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kesrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kesrana/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kesrana/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
