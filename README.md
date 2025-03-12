@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kesrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kesrana/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
