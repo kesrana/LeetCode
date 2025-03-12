@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kesrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kesrana/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kesrana/LeetCode/tree/master/0733-flood-fill) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -65,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kesrana/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kesrana/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kesrana/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/kesrana/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/kesrana/LeetCode/tree/master/0728-self-dividing-numbers) |
 ## Trie
 |  |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kesrana/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
