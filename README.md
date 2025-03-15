@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kesrana/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kesrana/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kesrana/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kesrana/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kesrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kesrana/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kesrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kesrana/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kesrana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kesrana/LeetCode/tree/master/0278-first-bad-version) |
