@@ -3,11 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        slowPointer = 0
-        for fast in range(len(nums)):
-            if nums[slowPointer] == 0 and nums[fast] != 0:
-                nums[slowPointer], nums[fast] = nums[fast], nums[slowPointer]
+        left = 0
+        for right in range(len(nums)):
+            if nums[right] != 0:
+                nums[left], nums[right] = nums[right], nums[left]
 
-            if nums[slowPointer] != 0:
-                slowPointer += 1
+            if nums[left] != 0:
+                left += 1
+
+
         
