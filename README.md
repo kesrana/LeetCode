@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kesrana/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kesrana/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3778-transform-array-by-parity](https://github.com/kesrana/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kesrana/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/kesrana/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/kesrana/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kesrana/LeetCode/tree/master/0412-fizz-buzz) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
