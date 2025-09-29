@@ -8,6 +8,7 @@ class Solution:
 
         #use a for loop to find the third maximum number
         for i, num in enumerate(nums_reverse):
+            #if the current num is less than result, replace it and increment iterate
             if num < result:
                 result = num
                 iterate += 1
