@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kesrana/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/kesrana/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/kesrana/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/kesrana/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/kesrana/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
