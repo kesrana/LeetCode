@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kesrana/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/kesrana/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/kesrana/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kesrana/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kesrana/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/kesrana/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/kesrana/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/kesrana/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kesrana/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/kesrana/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/kesrana/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/kesrana/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kesrana/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Design
 |  |
