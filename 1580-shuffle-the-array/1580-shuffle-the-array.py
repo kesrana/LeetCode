@@ -1,17 +1,8 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         result = []
-        for i in range(len(nums)):
-            if n + i >= len(nums):
-                break
+        for i in range(n):
             result.append(nums[i])
-            if n + i < len(nums):
-                result.append(nums[n+i])
-            else:
-                break
+            result.append(nums[i+n])
         return result
-
             
-
-        
-        
