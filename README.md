@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kesrana/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3778-transform-array-by-parity](https://github.com/kesrana/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/kesrana/LeetCode/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/kesrana/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/kesrana/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kesrana/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kesrana/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [4058-compute-alternating-sum](https://github.com/kesrana/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Design
 |  |
 | ------- |
