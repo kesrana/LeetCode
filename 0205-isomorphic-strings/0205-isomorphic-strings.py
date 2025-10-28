@@ -1,3 +1,9 @@
+'''
+paper
+p:0, a:1, e:2, r: 3
+[0, 1, 0, 2, 3]
+'''
+
 from collections import defaultdict
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
