@@ -1,11 +1,16 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        ans = ""
-        v = sorted(strs)
-        first = v[0]
-        last = v[-1]
-        for i in range(min(len(first), len(last))):
+        #sort the list by alphabetical order so we only need to care about the first and last components of the list
+        sorted_strs = sorted(strs)
+        #defining variable for first and last element
+        first = sorted_strs[0]
+        last = sorted_strs[-1]
+        result = ""
+        for i in range(len(min(first, last))):
             if first[i] != last[i]:
-                return ans
-            ans += last[i]
-        return ans
+                return result
+            result += first[i]
+        return result
+                
+            
+            
