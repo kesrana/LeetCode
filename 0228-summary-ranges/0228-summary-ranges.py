@@ -1,25 +1,31 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        result = []
-        i = 0
-
-        while i < len(nums):
-            start = nums[i]
-
-            while i + 1 < len(nums) and nums[i] == nums[i+1] -1:
-                i += 1
-            
-            if start != nums[i]:
-                result.append(str(start) + "->" + str(nums[i]))
-            
-            else:
-                result.append(str(nums[i]))
-            
-            i+= 1
-
-        return result
-            
-
-
-
+        if not nums:
+            return []
         
+        result = []
+        start = nums[0]
+        
+        for i in range(1, len(nums)):
+            #if not consecutive
+            if nums[i] != nums[i-1] + 1:
+                #if start was the prev element corner case
+                if start == nums[i-1]:
+                    result.append(str(start))
+                #else store the range
+                else:
+                    result.append(f"{start}->{nums[i-1]}")
+                start = nums[i]
+        
+        #we have to account for the end element in case there is no break.
+        if start == nums[-1]:
+            result.append(str(start))
+        else:
+            result.append(f"{start}->{nums[-1]}")
+        
+        return result
+
+                    
+
+
+
