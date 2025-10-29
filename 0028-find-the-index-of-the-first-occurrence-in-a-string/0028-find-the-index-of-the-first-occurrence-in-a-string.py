@@ -1,11 +1,21 @@
+'''
+sadbutsad
+sad
+
+
+while i < length of haystack and j < length needle:
+    if i == j:
+        result += 1
+
+return result == j
+'''
+
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        for i in range(0,len(haystack)):
-            if i + len(needle) > len(haystack):
-                return -1
+        #iterate through haystack
+        for i in range(len(haystack)):
             if haystack[i:i+len(needle)] == needle:
                 return i
-        return -1   
-            
-        
+        return -1
 
+            
