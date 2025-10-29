@@ -1,5 +1,8 @@
+from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        sorted_s = sorted(s)
-        sorted_t = sorted(t)
-        return sorted_s == sorted_t
+        s_freq = Counter(s)
+        t_freq = Counter(t)
+
+        return s_freq == t_freq
+       
