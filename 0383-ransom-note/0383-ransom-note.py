@@ -1,6 +1,10 @@
+from collections import Counter
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        st1, st2 = Counter(ransomNote), Counter(magazine)
-        if st1 & st2 == st1:
-            return True
-        return False
+        ransom_freq = Counter(ransomNote)
+        magazine_freq = Counter(magazine)
+
+        for key, value in ransom_freq.items():
+            if ransom_freq[key] > magazine_freq[key]:
+                return False
+        return True
