@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesrana/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kesrana/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kesrana/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kesrana/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kesrana/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/kesrana/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kesrana/LeetCode/tree/master/0733-flood-fill) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kesrana/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesrana/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kesrana/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kesrana/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -318,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kesrana/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kesrana/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kesrana/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
