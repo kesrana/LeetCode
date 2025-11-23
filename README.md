@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kesrana/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/kesrana/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/kesrana/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kesrana/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/kesrana/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/kesrana/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kesrana/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kesrana/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kesrana/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kesrana/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/kesrana/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/kesrana/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/kesrana/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kesrana/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/kesrana/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kesrana/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kesrana/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/kesrana/LeetCode/tree/master/4008-restore-finishing-order) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kesrana/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/kesrana/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/kesrana/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kesrana/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kesrana/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3778-transform-array-by-parity](https://github.com/kesrana/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Tree
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kesrana/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kesrana/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/kesrana/LeetCode/tree/master/0461-hamming-distance) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kesrana/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
